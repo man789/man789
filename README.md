@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Manuel Ferreira Horta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Front End Dev 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working as Front End Developer Altavia ACT
+- 📫 You can see my portfolio live [here](https://www.manuelfh.be)
 
 <!---
 man789/man789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
