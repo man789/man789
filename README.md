@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel Ferreira Horta
-- 🌱 I’m currently working as Front End Developer Altavia ACT
+- 🌱 I’m currently working as Front End Developer @ Altavia ACT
 - 📫 You can see my portfolio live [here](https://www.manuelfh.be)
 
 <!---
