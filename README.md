@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuel Ferreira Horta
 - 
-- 🌱 I’m currently working as Front End Developer / Webmaster / Digital Manager @ [Bruxelles Formation]([https://www.bruxellesformation.brussels])
+- 🌱 I’m currently working as Front End Developer / Webmaster / Digital Manager @ Bruxelles Formation
 - 
 - 📫 You can see my portfolio live [here](https://www.manuelfh.be)
 
